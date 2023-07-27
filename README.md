@@ -1,2 +1,2 @@
 # Test
-This repository includes automated test scripts for GOR Pathology web application.
+This repository includes source code for automated test scripts for GOR Pathology web application.
